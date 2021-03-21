@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Lisa
+- 👋 Hi, I’m Lisa. I'm an Ecology PhD candidate at UC Davis and I'll be finishing between Summer 2021 and Spring 2022, depending on what comes next
 - 👀 I’m interested in forest health and interacting disturbances--especially pertaining to diseases--at individual to landscape scales
 - 🌱 I’m currently learning more sophisticated hierachical Bayesian models to understand ecological dynamics over space and time, and I want to learn more about remote sensing to have an impact on a larger spatial scale
 - 💞️ I’m looking to collaborate on anything that relates to forest diseases across landscapes and Bayesian hierarchical models
