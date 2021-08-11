@@ -1,5 +1,5 @@
-- 👋 Hi, I’m Lisa. I'm an Ecology PhD candidate at UC Davis and I'll be finishing between Summer 2021 and Spring 2022, depending on what comes next
-- 👀 I’m interested in forest health and interacting disturbances--especially pertaining to diseases--at individual to landscape scales
+- 👋 Hi, I’m Lisa. I'm an Ecology PhD candidate at UC Davis and I'll be finishing in August 2021. I'll be starting an ecologist position with USGS at the Sequoia & Kings Canyon Field station modeling fire risk.
+- 👀 I’m interested in forest health and interacting disturbances at individual to landscape scales
 - 📫 How to reach me: lrosenthal@ucdavis.edu
 
 <!---
